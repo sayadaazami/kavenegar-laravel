@@ -1,6 +1,6 @@
 {  
-   "name":"kavenegar/laravel",
-   "description":"laravel 4 and 5 kavenegar integration",
+   "name":"sayadaazami/kavenegar",
+   "description":"laravel 4 and upper kavenegar integration",
    "type":"laravel-package",
    "keywords":[  
       "laravel",
