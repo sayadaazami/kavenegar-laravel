@@ -6,7 +6,7 @@ If you need to future information about API document Please visit RESTful Docume
 
 ## Requirements
 
-Laravel 4 or 5.
+Laravel 4 to 7.
 
 ## Installation
 
