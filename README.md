@@ -20,7 +20,7 @@ After that you just need to pick API-KEY up from <a href="http://panel.kavenegar
 Install it this way :
 
 ```sh
-composer require kavenegar/laravel
+composer require sayadaazami/kavenegar
 ```
 
 ## Laravel 5 and 6
